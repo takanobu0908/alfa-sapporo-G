@@ -100,7 +100,7 @@ app.component('answer-input', {
     return {
       /* 送信ボタン上下に表示されるメッセージ */
       okMessage: '正解！',
-      ngMessage: 'キミは扉を開けることができなかったﾈｯざんねん☆ﾊﾊｯ🐭',
+      ngMessage: 'キミは扉を開けることができなかったﾈｯざんねん☆ﾊﾊｯ🐭という声が聞こえ、バンッ！爆発してしまった。',
       message: '',
       inputAnswer: '',
     }
